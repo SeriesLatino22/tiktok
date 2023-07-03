@@ -153,8 +153,8 @@ body
       font-size: 18px; /* Cambia el tamaño del texto según tus preferencias */
       font-weight: bold; /* Aplica negrita al texto */
     }
-        body
-{
+        body {
+      background-color: #FFC0CB;
    font-family: Arial;
    font-weight: normal;
    font-size: 13px;
